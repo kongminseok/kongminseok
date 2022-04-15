@@ -1,4 +1,4 @@
-<!--색깔은 hex code 참조-->
+<!--색깔은 hex code https://www.color-hex.com/color-names.html 참조-->
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=291405)    
 
