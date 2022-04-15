@@ -15,14 +15,22 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=291405)    
 
 
-<!--about me-->
+<!--kongminseok-->
 <div align=center> 
   
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/kongminnseok/)
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 </div>
 
+
+<!--studying-->
+## STUDY
+
+<div align=center> 
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+</div>
 
 
 <!--Statstics -->
