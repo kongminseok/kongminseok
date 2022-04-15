@@ -6,7 +6,7 @@
 
 </div>
 
---------
+
 <!--link-->
 <div align=center>
    
@@ -16,7 +16,7 @@
 </div>
 
 <br>
-
+--------
 <!--studying-->
 <div align=center> 
   
