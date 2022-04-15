@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ffdce0&height=100&section=header&text=kongminseok&fontSize=90)    
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto0&height=100&section=header&text=kongminseok&fontSize=50)    
 
 <!--GitHub -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=dracula)
