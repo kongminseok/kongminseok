@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=d6ace6)    
+<!--색깔은 hex code 참조-->
+<!--Header-->
+![header](https://capsule-render.vercel.app/api?type=soft&color=d6ace6&height=50&section=header&text=kongminseok&fontSize=20&animation=fadeIn&fontColor=d6ace6)    
 
-<!--GitHub -->
+<!--Statstics -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&&theme=dracula)](https://github.com/kongminseok/github-readme-stats)   
 
