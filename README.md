@@ -2,7 +2,7 @@
 <!--header -->
 <div align=center> 
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=291405) 
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=3b2f2f) 
 
 </div>
 
