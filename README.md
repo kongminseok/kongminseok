@@ -2,7 +2,7 @@
 
 <!--GitHub -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=dracula&locale=kr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&layout=compact)](https://github.com/kongminseok/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&&theme=dracula)](https://github.com/kongminseok/github-readme-stats)   
 
 
 
