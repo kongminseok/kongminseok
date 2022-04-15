@@ -43,7 +43,7 @@
 <!--statstics -->
 <div align=center>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&title_color=291405&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&title_color=291405&bg_color=c1cdcd)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&title_color=291405&theme=dracula)](https://github.com/kongminseok/github-readme-stats)
 
 </div>
