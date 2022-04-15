@@ -25,11 +25,12 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tnesorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 
 </div>
 
