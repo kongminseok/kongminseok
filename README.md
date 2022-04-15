@@ -24,7 +24,7 @@
 
 
 <!--studying-->
-## STUDY
+:books: STUDY
 
 <div align=center> 
 
