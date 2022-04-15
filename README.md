@@ -24,10 +24,9 @@
 
 
 <!--studying-->
-:books: Study
-
 <div align=center> 
 
+:books: Study
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
@@ -36,10 +35,9 @@
 
 
 <!--tool-->
-:gear: Tool
-
 <div align=center> 
 
+:gear: Tool
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   
