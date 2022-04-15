@@ -24,7 +24,7 @@
 
 
 <!--studying-->
-:books: STUDY
+:books: STUDY 
 
 <div align=center> 
 
@@ -33,7 +33,17 @@
 </div>
 
 
-<!--Statstics -->
+<!--tool-->
+:gear:
+
+<div align=center> 
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+</div>
+
+
+<!--statstics -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&&theme=dracula)](https://github.com/kongminseok/github-readme-stats)   
 
