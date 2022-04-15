@@ -36,9 +36,6 @@
   
 </div>
 
-<br>
-<br>
-<br>
 
 <!--statstics -->
 <div align=center>
@@ -48,6 +45,12 @@
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div align=center>
 
