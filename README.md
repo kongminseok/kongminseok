@@ -17,6 +17,7 @@
 
 </div>
 
+<br>
 
 <!--studying-->
 <div align=center> 
@@ -27,6 +28,7 @@
 
 </div>
 
+<br>
 
 <!--tool-->
 <div align=center> 
@@ -36,6 +38,7 @@
   
 </div>
 
+<br>
 
 <!--statstics -->
 <div align=center>
@@ -45,7 +48,6 @@
 
 </div>
 
-<br>
 <br>
 <br>
 <br>
