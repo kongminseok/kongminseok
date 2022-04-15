@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=kongminseok&fontSize=90)   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok)](https://github.com/kongminseok/github-readme-stats)    
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=kongminseok&fontSize=90)    
 
-
+<!--GitHub -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=dracula&locale=kr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&layout=compact)](https://github.com/kongminseok/github-readme-stats)   
 
