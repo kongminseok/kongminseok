@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=flat-square&logo=apachehive&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ApacheAirflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   
 
 </div>
