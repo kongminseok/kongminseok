@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=flat-square&logo=apachehive&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
