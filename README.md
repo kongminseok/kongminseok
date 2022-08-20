@@ -12,17 +12,15 @@
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kongminseok/)      
  ## AI Engineer & Data Scientist 💻
  
- 
-  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
-  
-  
-  
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
 </div>
 
 --------
 <!--studying-->
-<div align=center> 
+<div align=left> 
   
+ ## TECH STACK ##
+ 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <br>
