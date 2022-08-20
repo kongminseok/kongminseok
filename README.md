@@ -11,7 +11,7 @@
  [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/shirtnjean)
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kongminseok/)      
  ### AI Engineer & Data Scientist 💻
- 
+ ------
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&icon_color=e32636&title_color=100c08&bg_color=c1cdcd)
  
  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
