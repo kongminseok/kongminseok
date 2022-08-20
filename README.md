@@ -46,16 +46,5 @@
 
 </div>
 
-<br>
-
-<!--statstics -->
-<div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongminseok&title_color=100c08&bg_color=c1cdcd)](https://github.com/kongminseok/github-readme-stats)
-
-</div>
-
---------
-
 
 
