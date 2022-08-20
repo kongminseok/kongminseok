@@ -10,7 +10,7 @@
  [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://mysterious-elephant-0f2.notion.site/kongminseok-d8b8604a905e4cf9958e4cef701d28c2)
  [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/shirtnjean)
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kongminseok/)      
- ## Beginner Class of AI Engineer and Data Scientist
+ ### Beginner Class of AI Engineer and Data Scientist
  ------
  #### ABOUT ME
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&icon_color=e32636&title_color=100c08&bg_color=c1cdcd)
