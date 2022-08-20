@@ -3,7 +3,7 @@
 
 <!--header -->
 <div align=left> 
- <img width='1000' height="200" src="https://user-images.githubusercontent.com/81498680/185734890-12c1fafa-0301-49cf-888a-2f54ba934d69.jpg"/>
+ <img width='1000' height="500" src="https://user-images.githubusercontent.com/81498680/185734890-12c1fafa-0301-49cf-888a-2f54ba934d69.jpg"/>
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongminseok%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23555555&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/kongminnseok/)
