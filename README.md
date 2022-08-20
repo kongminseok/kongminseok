@@ -18,17 +18,6 @@
   
 </div>
 
-
-<!--link-->
-<div align=center>
-   
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/kongminnseok/)
-  [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://mysterious-elephant-0f2.notion.site/kongminseok-d8b8604a905e4cf9958e4cef701d28c2)
-  [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/shirtnjean)
-  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kongminseok/)
- 
-</div>
-
 --------
 <!--studying-->
 <div align=center> 
