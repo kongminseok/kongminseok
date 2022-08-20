@@ -24,7 +24,7 @@
  - **SG Univ. B.S. in Economics and Data Science**
  - **SG Univ. M.S. Candidate in Applied Bigdata Engineering, Computer Science and Engineering**
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&icon_color=e32636&title_color=100c08&bg_color=c1cdcd)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&icon_color=e32636&title_color=100c08&bg_color=c1cdcd&theme=dark)
  
  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
 
