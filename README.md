@@ -19,7 +19,7 @@
 <!--studying-->
 <div align=left> 
   
- ## TECH STACK ##
+ ## Language and Tools ##
  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
