@@ -25,7 +25,7 @@
  - **SG Univ. M.S. Candidate in Applied Bigdata Engineering, Computer Science and Engineering**
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=algolia)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongminseok&repo=github-readme-stats)](https://github.com/kongminseok/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongminseok&repo=github-readme-stats)](https://github.com/kongminseok)
  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
 
 </div>
