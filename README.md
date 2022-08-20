@@ -20,8 +20,8 @@
  <div align=left> 
  
  #### ABOUT ME
- - SG Univ. B.S. in Economics and Data Science
- - SG Univ. M.S. Candidate in Applied Bigdata Engineering, Computer Science and Engineering
+ - **SG Univ. B.S. in Economics and Data Science**
+ - **SG Univ. M.S. Candidate in Applied Bigdata Engineering, Computer Science and Engineering**
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&icon_color=e32636&title_color=100c08&bg_color=c1cdcd)
  
