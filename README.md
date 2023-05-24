@@ -15,7 +15,7 @@
  [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>](https://velog.io/@kongminseok)
 
  
- <!--[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/shirtnjean)-->  
+ <!--[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>]--><!--(https://www.kaggle.com/shirtnjean)-->  
  
  
 </div>
