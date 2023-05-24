@@ -10,7 +10,7 @@
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongminseok%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23555555&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
  [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>](https://velog.io/@kongminseok)
- [<img src="https://img.shields.io/badge/Blog-222222?style=flate&logo=GitLab&logoColor=white"/>](https://kongminseok.github.io/)
+ [<img src="https://img.shields.io/badge/Blog-222222?style=flate&logo=GithubPages&logoColor=white"/>](https://kongminseok.github.io/)
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kongminseok/)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>](https://www.instagram.com/kongminnseok/) 
  [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/shirtnjean) 
