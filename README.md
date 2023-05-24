@@ -24,7 +24,7 @@
  ------
  <div align=left> 
  
- #### ABOUT ME
+ #### ABOUT
  - **SGU. M.S. Student in Applied Bigdata Engineering, CSE (Feb, 2022 - Present)**
  - **SGU. B.S. Student in Economics and Bigdata Science (Feb, 2014 - Feb, 2022)**
  
