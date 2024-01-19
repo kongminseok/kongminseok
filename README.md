@@ -25,7 +25,7 @@
  <div align=left> 
  
  #### ABOUT
- - **SGU. M.S. Student in Applied Bigdata Engineering, CSE (Feb, 2022 - Present)**
+ - **SGU. M.S. Student in Computer Science and Engineering (Applied Data Engineering) (Feb, 2022 - Present)**
  - **SGU. B.S. Student in Economics and Bigdata Science (Feb, 2014 - Feb, 2022)**
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=github_dark)
