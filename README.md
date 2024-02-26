@@ -25,8 +25,9 @@
  <div align=left> 
  
  #### ABOUT
- - **SGU. M.S. Student in Computer Science and Engineering (Applied Data Engineering) (Feb, 2022 - Present)**
- - **SGU. B.S. Student in Economics and Bigdata Science (Feb, 2014 - Feb, 2022)**
+ - **SGU. M.S. Student in Computer Science and Engineering (Applied Data Engineering) (Feb 2022 - Present)**
+ - **U of T. M.S. full-time exchange student in the Faculty of Applied Science and Engineering (Jan 2024 - Jun 2024)**
+ - **SGU. B.S. Student in Economics and Bigdata Science (Feb 2014 - Feb 2022)**
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=github_dark)
  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=c1cdcd&height=100&section=header&text=kongminseok&fontSize=50&animation=fadeIn&fontColor=100c08)-->
