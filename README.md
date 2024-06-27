@@ -11,9 +11,9 @@
  [<img src="https://img.shields.io/badge/Blog-222222?style=flate&logo=GithubPages&logoColor=white"/>](https://kongminseok.github.io/)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>](https://www.instagram.com/minseokzero/)
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minseokkong/)
- [<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>](https://velog.io/@kongminseok)
 
  
+ <!--[<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>](https://velog.io/@kongminseok)-->  
  <!--[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>]--><!--(https://www.kaggle.com/shirtnjean)-->  
  
  
@@ -23,7 +23,7 @@
  ------
  <div align=left> 
  
- #### ABOUT
+ #### About
  - **SGU. M.S. student in Computer Science and Engineering (Applied Data Engineering) (Feb 2022 - Aug 2024)**
  - **U of T. M.S. full-time exchange student in the Faculty of Applied Science and Engineering (Jan 2024 - Jun 2024)**
  - **SGU. B.S. student in Economics and Data Science (Feb 2014 - Feb 2022)**
