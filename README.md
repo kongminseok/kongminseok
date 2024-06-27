@@ -25,7 +25,7 @@
  <div align=left> 
  
  #### ABOUT
- - **SGU. M.S. student in Computer Science and Engineering (Applied Data Engineering) (Feb 2022 - Present)**
+ - **SGU. M.S. student in Computer Science and Engineering (Applied Data Engineering) (Feb 2022 - Aug 2024)**
  - **U of T. M.S. full-time exchange student in the Faculty of Applied Science and Engineering (Jan 2024 - Jun 2024)**
  - **SGU. B.S. student in Economics and Data Science (Feb 2014 - Feb 2022)**
  
