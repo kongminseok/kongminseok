@@ -6,7 +6,6 @@
 
  <img src="https://user-images.githubusercontent.com/81498680/185739161-ce0db87e-6d84-4219-84dc-ac4574e9e544.jpg"/>
  
- ### AI researcher
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongminseok%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23555555&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
  [<img src="https://img.shields.io/badge/Blog-222222?style=flate&logo=GithubPages&logoColor=white"/>](https://kongminseok.github.io/)
