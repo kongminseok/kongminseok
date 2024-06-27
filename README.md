@@ -25,7 +25,7 @@
  
  #### About
  - **SGU. M.S. student in Computer Science and Engineering (Applied Data Engineering)**, _Feb 2022 - Aug 2024_
- - **U of T. M.S. full-time exchange student in the Faculty of Applied Science and Engineering**, _Jan 2024 - Jun 2024_
+ - **U of T. M.S. student in the Faculty of Applied Science and Engineering**, _Jan 2024 - Jun 2024_
  - **SGU. B.S. student in Economics and Bigdata Science**, _Feb 2014 - Feb 2022_
  
  <!--!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongminseok&show_icons=true&theme=github_dark)
