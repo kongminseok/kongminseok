@@ -7,7 +7,7 @@
  <img src="https://user-images.githubusercontent.com/81498680/185739161-ce0db87e-6d84-4219-84dc-ac4574e9e544.jpg"/>
  
   
- ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkongminseok%2Fkongminseok&label=총%20방문자&labelColor=%23000000&countColor=%23263759&style=flat)
+ ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkongminseok%2Fkongminseok&label=Total%20Visiters&labelColor=%23000000&countColor=%23263759&style=flat)
  [<img src="https://img.shields.io/badge/Blog-222222?style=flate&logo=GithubPages&logoColor=white"/>](https://kongminseok.github.io/)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>](https://www.instagram.com/minseokzero/)
  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/minseokkong/)
