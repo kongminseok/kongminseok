@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Minseok Kong — AI Application Engineer. Models are power; decisions are direction." width="100%">
+  <img src="assets/banner-light.svg" alt="Minseok Kong — AI Application Engineer. The ceiling is the loop, not the model." width="100%">
 </picture>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <br>
 
-I design and build AI services that are trusted with real decisions — agent runtimes, retrieval, and memory, with the guardrails that keep them honest. Currently shipping production systems at **SK Inc. AX** in Seoul.
+I engineer the loop around the model — agent runtimes, retrieval, memory, and the guardrails that keep AI services honest enough to be trusted with real decisions. Shipping in production at **SK Inc. AX** in Seoul.
 
 I came here by way of economics, then graduate research in computer vision and reinforcement learning — and stayed for the part where models meet production.
 
