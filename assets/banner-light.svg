@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">Minseok Kong — AI Application Engineer</title>
+  <style>
+    /* responsive: media queries evaluate against the rendered image width */
+    @media (max-width: 600px){
+      .ov{font-size:19px; letter-spacing:4.4px}
+      .mt{font-size:28px}
+      .meta{display:none}
+    }
+    @media (max-width: 440px){
+      .ov{font-size:24px; letter-spacing:3.8px}
+      .mt{font-size:34px}
+    }
+  </style>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7360ea"/>
@@ -49,9 +61,9 @@
   <rect x="1" y="1" width="1198" height="298" rx="18" stroke="#e7e5e2" stroke-width="1"/>
 
   <!-- type -->
-  <text x="73" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="5" fill="#8b909a">AI APPLICATION ENGINEER</text>
+  <text class="ov" x="73" y="82" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="5" fill="#6b7184">AI APPLICATION ENGINEER</text>
   <text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-1" fill="#14171d">Minseok Kong<tspan fill="#7360ea">.</tspan></text>
   <rect x="73" y="180" width="46" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="72" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#5f6570">Models are power; decisions are direction.</text>
-  <text x="73" y="264" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2" fill="#a4a9b2">SEOUL · SOUTH KOREA</text>
+  <text class="mt" x="72" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#5f6570">Models are power; decisions are direction.</text>
+  <text class="meta" x="73" y="264" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2" fill="#7d8391">SEOUL · SOUTH KOREA</text>
 </svg>
