@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Minseok Kong — AI Application Engineer. The ceiling is the loop, not the model." width="100%">
+  <img src="assets/banner-light.svg" alt="Minseok Kong — AI Application Engineer. Agent loops, retrieval, guardrails — in production." width="100%">
 </picture>
 
 <p align="center">
